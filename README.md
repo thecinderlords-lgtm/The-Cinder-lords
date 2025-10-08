@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./image_1789026715962.jpeg" alt="The Cinder Lords Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/thecinderlords-lgtm/The-Cinder-lords/main/image_1789026715962.jpeg" alt="The Cinder Lords Banner" width="100%" />
 </p>
 
 <h2 align="center">🔥 About Us — The Cinder Lords 🔥</h2>
